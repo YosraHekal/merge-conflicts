@@ -1,2 +1,2 @@
-var num = 7
-var truth = "Hello Flatter Earth",
+var num = 17
+var truth = "Hello Cats";
